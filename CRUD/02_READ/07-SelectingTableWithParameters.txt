@@ -1,0 +1,13 @@
+SELECTING TABLE WITH (PARAMETERS)
+
+SELECT p1,p2.. FROM table_name; or
+SELECT p1,p2.. FROM table_name WHERE condition;
+
+Example #1:
+SELECT FirstName, LastName FROM tblemployees;
+
+Example #2:
+SELECT LastName, FirstName FROM tblemployees WHERE LastName = "Santos";
+
+Example #3:
+SELECT LastName, FirstName, Age FROM tblemployees WHERE Age >= 30;

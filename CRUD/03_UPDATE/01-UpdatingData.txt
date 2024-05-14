@@ -1,0 +1,42 @@
+UPDATING DATA
+
+    UPDATE table_name SET p1,p2.. WHERE condition;
+
+SET KEYWORD
+    Indicates what columns is to be updated and what value
+    should it use to update the data with.
+
+WHERE KEYWORD
+    The WHERE keyword is used to UPDATE 
+    certain ROWS in that table.
+
+IF SAFE MODE IS ON
+    WHERE is Necessary
+    WHERE must ALWAYS use a PRIMARY KEY.
+
+CONDITIONAL OPERATORS
+=   EQUALS
+<>  NOT EQUALS
+>   GREATER THAN
+<   LESS THAN
+>=  GREATER THAN or EQUALS
+<=  LESS THANS or EQUALS
+
+EXAMPLES
+    Example #1:
+        Mikey Goodman Changes his Bio to "HATDOG".
+
+    Query #1:
+        UPDATE table_name SET Bio = "HATDOG" WHERE UID = 1;
+
+    Example #2:
+        Monty Aguilar verified her Account.
+
+    Query #2:
+        UPDATE table_name SET Verified = TRUE WHERE UID = 8;
+        
+    Example #3:
+        Kobe Mcdowell Verified his Account and change his first name to Koby.
+
+    Query #2:
+        UPDATE table_name SET Verified = TRUE, FirstName = "Koby" WHERE UID = 6;

@@ -1,0 +1,6 @@
+IN KEYWORD
+The IN keyword is used after the WHERE keyword 
+to select multiple values in a parameters.
+
+Example : Select all employees with the Last Name is "Santos" and "Dela Cruz";
+QUERY   : SELECT * FROM tblemployees WHERE LastName IN ("Santos", "Dela Cruz");

@@ -1,0 +1,9 @@
+IN KEYWORD
+    The IN keyword is used after the WHERE keyword
+    to updatye multiple rows.
+
+    Example:
+        katherine Palmer and Monty Callaghan Verified their Account!
+
+    Query:
+        UPDATE table_name SET Verified = TRUE WHERE UID IN (5,4);

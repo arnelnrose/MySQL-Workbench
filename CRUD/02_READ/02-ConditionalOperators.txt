@@ -1,0 +1,12 @@
+CONDITIONAL OPERATORS
+=   EQUALS
+<>  NOT EQUALS
+>   GREATER THAN
+<   LESS THAN
+>=  GREATER THAN or EQUALS
+<=  LESS THANS or EQUALS
+
+How to select from tblemployees only the age of 30.
+
+QUERY:
+SELECT * FROM tblemployees WHERE Age >= 30;

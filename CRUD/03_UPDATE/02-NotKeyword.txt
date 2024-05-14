@@ -1,0 +1,8 @@
+NOT KEYWORD
+    The NOT keyword is used to invert the WHERE Condition.
+
+    Example:
+        Everyone except Brendan Aguilar removed their bio.
+
+    Query:
+        UPDATE table_name SET Bio = "" WHERE NOT UID = 9; 

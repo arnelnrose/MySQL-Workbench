@@ -1,0 +1,10 @@
+OR KEYWORD
+the AND keyword is used to add conditions in a WHERE
+Statement where in either conditions must be true.
+
+Example: 
+Select all employess with the last name "Santos" or 
+their age must be 30 above.
+
+QUERY:
+SELECT * FROM employees WHERE LastName = "Santos" OR Age >= 30;
