@@ -1,5 +1,0 @@
-NOT Keyword
-The NOT keyword s used to invert the WHERE Condition.
-
-Example : Select all employees EXCEPT if their Last Name is "Santos";
-QUERY   : SELECT * FROM tblemployees WHERE NOT LastName = "Santos";
