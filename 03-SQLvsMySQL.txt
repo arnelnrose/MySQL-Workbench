@@ -1,4 +1,0 @@
-SQL vs MySQL
-SQL is the Query Language used in
-MySQL an open source RDBMS (Relation Database Management System).
-
