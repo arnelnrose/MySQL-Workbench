@@ -1,9 +1,0 @@
-AND KEYWORD
-The AND keyword is used to add condition in a WHERE
-Statement where in both conditions must be true.
-
-Example: Select all employees with the last name "Santos"
-and their age must be 30 above.
-
-QUERY:
-SELECT * FROM tblemployees WHERE LastName = "Santos" AND Age <= 30;
