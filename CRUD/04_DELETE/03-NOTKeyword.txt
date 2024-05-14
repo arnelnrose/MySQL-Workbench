@@ -1,0 +1,8 @@
+NOT KEYWORD
+    the not keyword is used to invert the WHERE Condition.
+
+    Exaample:
+        Delete all the products except "Fabric Softener"
+    
+    Query:
+        DELETE FROM table_name WHERE NOT PID = 10;

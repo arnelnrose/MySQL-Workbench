@@ -1,0 +1,17 @@
+DELETING DATE
+    Query:
+        DELETE FROM table_name WHERE condition;
+
+WHERE KEYWORD
+    The WHERE keyword is used to DELETE a certain
+    multiple ROWS in the table.
+
+    IF SAFE MODE IS ON
+        WHERE is Necessary
+        WHERE must use a PRIMARY KEY
+
+    Example:
+        Delete the Product "Alcohol"
+
+    Query:
+        DELETE FROM table_name WHERE PID = 2;

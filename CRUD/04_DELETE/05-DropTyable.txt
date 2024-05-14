@@ -1,0 +1,12 @@
+DROP KEYWORD
+    DELETE A TABLE or DATABASE
+
+DROP TABLE
+
+    Query:
+        DROP TABLE table_name;
+
+
+
+
+

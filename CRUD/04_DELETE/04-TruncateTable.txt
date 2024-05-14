@@ -1,0 +1,7 @@
+TRUNCATE TABLE
+    TRUNCATE table_name
+
+TRUNCATE KEYWORD
+    DELETES ALL DATA from a TABLE
+
+    

@@ -1,0 +1,9 @@
+IN KEYWORD
+    The IN keyword is used after the WHERE keyword to
+    delete multiple rows in one query,
+
+    Example:
+        Delete the Products "Face Mask" and "Hand Sanitizer"
+
+    Query:
+        DELETE FROM table_name WHERE PID IN (1,4);

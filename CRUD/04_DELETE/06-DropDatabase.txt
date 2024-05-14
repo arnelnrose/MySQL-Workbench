@@ -1,0 +1,4 @@
+DROP DATABASE
+
+    Query:
+        DROP DATABASE database_name;
