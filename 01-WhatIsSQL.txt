@@ -1,0 +1,6 @@
+What is SQL?
+
+SQL (Structured Query Language)
+is a Query Language specifically designed 
+for managing data in a database.
+

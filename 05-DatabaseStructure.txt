@@ -1,0 +1,5 @@
+Database Structured
+
+In SQL databases are often displayed as a set of tables
+wherein tables contains a row for each invidial and
+a column for each data of an individual.
