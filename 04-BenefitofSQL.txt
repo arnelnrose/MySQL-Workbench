@@ -1,7 +1,0 @@
-Benefit of Learning SQL
-
-SQL is used in almost every platform when it regards
-to database learning this would be a great help when
-starting to learn how to connect database using other
-programming languages.
-
